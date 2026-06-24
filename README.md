@@ -114,6 +114,14 @@ The Random Forest model successfully predicted customer churn with strong perfor
 
 ---
 
+## 📷 Project Outputs
+
+### Confusion Matrix
+![Confusion Matrix](Confusion%20matrix%20Project%201.png)
+
+### Prediction Output
+![Prediction Output](Final%20output%20Project%201.png)
+
 ##  Business Impact
 
 The prediction results can help businesses:
